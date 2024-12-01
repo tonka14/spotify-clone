@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463636012695",
+    "project_id": "tonkamusictest",
+    "storage_bucket": "tonkamusictest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463636012695:android:d5c59a30a40085dd9313d2",
+        "android_client_info": {
+          "package_name": "com.tonka.musictest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0FX9ON0jxe99zu3vdNorqkdhcMMJ220g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
